@@ -55,7 +55,7 @@ This repository contains automated tests for the GitHub homepage using Cypress a
 bash
 ```
 ```
-cd github-homepage-automation
+cd cypress-auto
 ```
 ```
 npm install
